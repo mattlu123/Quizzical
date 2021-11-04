@@ -1,0 +1,28 @@
+#sidenav {
+    width: 250px;
+    height: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 200px;
+    left: 650px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+    border-radius: 3px;
+}
+
+table {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 11px;
+    font-family: "Times New Roman", Times, serif;
+    color: #2196F3;
+    display: block;
+    text-align: center;
+    justify-content: space-between;
+}
+
+tr{
+    display: flex;
+    justify-content: space-between;
+}

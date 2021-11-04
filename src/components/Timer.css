@@ -1,0 +1,33 @@
+#timer{
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 100px;
+    left: 650px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+    border-radius: 3px;
+    text-align: center;
+}
+
+#shell{
+    position: relative;
+    height: 20px;
+    width: 200px;
+    border-radius: 20px;
+    border: 1px solid #333;
+    left: 20px;
+}
+
+#filler{
+    background: #2196F3;
+    height: 100%;
+    border-radius: inherit;
+    transition: width .2s ease-in;
+}
+
+#timer-label{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+}

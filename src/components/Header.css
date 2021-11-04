@@ -1,0 +1,23 @@
+#header-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+
+#logout{
+    margin: 20px 20px 20px 0px;
+    background-color: red;
+}
+
+#username{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+    padding: 10px 10px 0px 10px;
+    justify-content: center;
+    color: 
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serifl
+}
